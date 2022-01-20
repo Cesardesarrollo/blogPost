@@ -7,3 +7,6 @@ Un blog de prueba
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Probando algunas cosas nuevas en Git 
+* Probando algunas cosas nuevas en Git 
+* incluye ejemplos en Windows, Linux y Mac
+* Disponible para todos los publicos sin restricciones
