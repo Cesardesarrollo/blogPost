@@ -8,3 +8,4 @@ Un blog de prueba
 * Trucos muy locos del profesor
 * Probando algunas cosas nuevas en Git 
 * incluye ejemplos en Windows, Linux y Mac
+* Disponible para todos los publicos sin restricciones
