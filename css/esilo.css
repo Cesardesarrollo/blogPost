@@ -5,3 +5,7 @@ body{
 h1{
 	font-weight: 100;
 }
+
+p{
+	color: red;
+}
